@@ -35,7 +35,7 @@ using namespace std;
 class Complex {
 
 public:
-
+ 
     // Attributes
     int real;
     int img;

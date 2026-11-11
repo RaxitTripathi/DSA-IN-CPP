@@ -27,7 +27,7 @@ public:
     // 1. PARAMETERIZED CONSTRUCTOR
     // Accepts values as arguments and initializes attributes.
     Student(string n, int a, float cg) {
-
+ 
         name = n;
         age = a;
         cgpa = cg;

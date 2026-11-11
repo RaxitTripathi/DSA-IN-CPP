@@ -4,7 +4,7 @@ Function Calling: Use the object name followed by dot (.) operator
  */
 
 
- 
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -26,7 +26,7 @@ public:
         cgpa = cg;
     }
 
-
+ 
     // MEMBER FUNCTION (Function inside class)
     void display() {
 

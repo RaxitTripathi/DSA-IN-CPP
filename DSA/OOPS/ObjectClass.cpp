@@ -15,7 +15,7 @@ int main(){
 
     cout<<x.name<<endl;
 
-
+ 
     Student y={18,"HP",9.1};
     cout<<y.name<<endl;
 
