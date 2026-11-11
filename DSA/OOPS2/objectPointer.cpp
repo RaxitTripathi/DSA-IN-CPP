@@ -25,3 +25,24 @@ int main(){
 
     cout<<c2.age<<endl;  // it will change in real also 
 }
+
+
+
+/* 
+
+
+* vs ** 
+
+
+int a = 10;
+
+int *p = &a;
+
+int **q = &p;
+
+cout << q;    // Address of p
+cout << *q;   // Address of a (stored in p)
+cout << **q;  // 10 
+
+
+*/
