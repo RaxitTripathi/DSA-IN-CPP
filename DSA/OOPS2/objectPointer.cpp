@@ -22,6 +22,7 @@ int main(){
 
     Cricketer *ptr = &c2;     
     (*ptr).age=49;      // change in ptr
+    ptr->avg=70.4;      // or we can write like it
 
     cout<<c2.age<<endl;  // it will change in real also 
 }
